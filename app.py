@@ -26,7 +26,7 @@ help_message = '*superpaws commands:* \n \n' \
                '*fox* -> foxes are basically cats \n ' \
                '*milo* -> random pic of the cutest cat \n ' \
                '*kitten* -> big cats \n ' \
-               '*pillopet* -> Pillo submitted pet pics (Add to this folder: https://photos.app.goo.gl/eysJiartZbnnYPxr7)'
+               '*pillopet* -> Pillo submitted pet pics'
 
 
 """
