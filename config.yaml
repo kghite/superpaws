@@ -1,0 +1,5 @@
+'slack_tokens':
+  SLACK_TOKEN: TEAM_ID
+'album_ids':
+  EXAMPLE_ALBUM_ARG: ALBUM_ID
+  TIGERS: MY_TIGERS_ALBUM_ID
