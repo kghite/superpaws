@@ -23,7 +23,7 @@ pyasn1-modules==0.2.6
 pymessenger==0.0.7.0
 pymessenger2==3.1.0
 pyslack==0.5.0
-PyYAML==5.1.2
+PyYAML==5.4
 requests==2.22.0
 requests-toolbelt==0.9.1
 rsa==4.0
